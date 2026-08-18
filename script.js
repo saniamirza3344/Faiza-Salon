@@ -55,10 +55,10 @@ const SERVICES = {
     { icon: '', name: 'Hair Color', desc: 'Full-head color in shades made for you.', price: 'Rs. 3,500', photo: 'images/hair_colore.jpg' },
     { icon: '', name: 'Highlights', desc: 'Dimension and glow with expert highlighting.', price: 'Rs. 4,000', photo: 'images/hairhightlight.jpg' },
     { icon: '', name: 'Balayage', desc: 'Hand-painted, sun-kissed color melt.', price: 'Rs. 6,000', photo: 'images/Balayage.jpg' },
-    { icon: '', name: 'Hair Treatment', desc: 'Deep repair for damaged, dry hair.', price: 'Rs. 2,000', photo: 'images/hair_tratment.jpg' },
+    { icon: '', name: 'Hair Treatment', desc: 'Deep repair for damaged, dry hair.', price: 'Rs. 1500', photo: 'images/hair_tratment.jpg' },
     { icon: '', name: 'Keratin Treatment', desc: 'Smooth, frizz-free hair that lasts.', price: 'Rs. 7,500', photo: 'images/service-hair-2.jpg' },
     { icon: '', name: 'Hair Spa', desc: 'Nourishing spa ritual for scalp and strands.', price: 'Rs. 1,800', photo: 'images/Hair_Spa.jpg' },
-    { icon: '', name: 'Bridal Hair Styling', desc: 'Elegant styling for your big day.', price: 'Rs. 5,000', photo: 'images/hairstyle.jpg' }
+    { icon: '', name: 'Bridal Hair Styling', desc: 'Elegant styling for your big day.', price: 'Rs. 2000', photo: 'images/hairstyle.jpg' }
   ],
   makeup: [
     { icon: '', name: 'Party Makeup', desc: 'Glamorous looks for any celebration.', price: 'Rs. 3,000', photo: 'images/party_makup.jpg' },
@@ -67,7 +67,7 @@ const SERVICES = {
     { icon: '', name: 'Soft Glam Makeup', desc: 'Natural glow with a subtle shimmer.', price: 'Rs. 2,800', photo: 'images/soft_gulabMakeup.jpg' },
     { icon: '', name: 'HD Makeup', desc: 'Camera-ready, high-definition finish.', price: 'Rs. 4,500', photo: 'images/hd_makeup.jpg' },
     { icon: '', name: 'Eye Makeup', desc: 'Defined, expressive eye looks.', price: 'Rs. 1,200', photo: 'images/eye_makup.jpg' },
-    { icon: '', name: 'Makeup Consultation', desc: 'Personalized guidance for your best look.', price: 'Rs. 500', photo: 'images/makeup_colaction.jpg' }
+    { icon: '', name: 'Makeup Consultation', desc: 'Personalized guidance for your best look.', price: 'Rs. 3000', photo: 'images/makeup_colaction.jpg' }
   ],
   skin: [
     { icon: '', name: 'Deep Cleansing Facial', desc: 'Purifies and refreshes tired skin.', price: 'Rs. 1,500', photo: 'images/deep_cleansing.jpg' },
